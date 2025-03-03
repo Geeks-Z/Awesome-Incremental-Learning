@@ -36,7 +36,7 @@
 - <a name="todo"></a> Saliency-driven Experience Replay for Continual Learning  (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/f3e3bc516755d6efa43fb0c62dea0d705efacfe7.pdf)][[code](https://github.com/perceivelab/SER)]
 - <a name="todo"></a> PCoTTA: Continual Test-Time Adaptation for Multi-Task Point Cloud Understanding (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/10d19bfe9a28e15074dbb79450ad0e5bc9dde6e4.pdf)][[code](https://github.com/Jinec98/PCoTTA)]
 - <a name="todo"></a> Advancing Cross-domain Discriminability in Continual Learning of Vision-Language Models (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/f13992ea7e554b8fcfa2b120be55eeb89c25643f.pdf)][[code](https://github.com/linghan1997/Regression-based-Analytic-Incremental-Learning)]
-✅ <a name="todo"></a> Continual Learning with Global Alignment (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/0b2a82c75f549856c3b133f08c9abe7349c018d7.pdf)]
+- ✅ <a name="todo"></a> Continual Learning with Global Alignment (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/0b2a82c75f549856c3b133f08c9abe7349c018d7.pdf)]
 - <a name="todo"></a> Disentangling and mitigating the impact of task similarity for continual learning (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/a615623ba5e9b57a77694d9816984ebb20ebf11f.pdf)]
 - <a name="todo"></a> Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/db512259110b000f82fd2052e9432dd693af4137.pdf)][[code](https://github.com/mala-lab/TPP)]
 - <a name="todo"></a> Make Continual Learning Stronger via C-Flat (**NeurIPS 2024**) [[paper](https://openreview.net/pdf/be179393fb5b55da27facef791300b7cea7f22b0.pdf)][[code](https://github.com/WanNaa/C-Flat)]
@@ -60,7 +60,7 @@
 - <a name="todo"></a> Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (**NeurIPS 2024**) [[paper](https://arxiv.org/abs/2410.06535)][[code](https://github.com/mashijie1028/Happy-CGCD)]
 
 - <a name="todo"></a> Early Preparation Pays Off: New Classifier Pre-tuning for Class Incremental Semantic Segmentation (**ECCV24**)[[paper](https://arxiv.org/abs/2407.14142)][[code](https://github.com/zhengyuan-xie/ECCV24_NeST)]
-✅ <a name="todo"></a> Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion (**ECCV24**)[[paper](https://arxiv.org/abs/2407.14143)][[code](https://github.com/linlany/RAPF)]
+- ✅ <a name="todo"></a> Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion (**ECCV24**)[[paper](https://arxiv.org/abs/2407.14143)][[code](https://github.com/linlany/RAPF)]
 - <a name="todo"></a> Bridge Past and Future: Overcoming Information Asymmetry in Incremental Object Detection (**ECCV24**)[[paper](https://arxiv.org/abs/2407.11499)][[code](https://github.com/iSEE-Laboratory/BPF)]
 - <a name="todo"></a> Confidence Self-Calibration for Multi-Label Class-Incremental Learning (**ECCV24**)[[paper](https://arxiv.org/abs/2403.12559v2)]
 - <a name="todo"></a> Rethinking Few-shot Class-incremental Learning: Learning from Yourself (**ECCV24**)[[paper](https://arxiv.org/pdf/2407.07468)][[code](https://github.com/iSEE-Laboratory/Revisting_FSCIL)]
